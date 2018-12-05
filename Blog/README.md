@@ -52,10 +52,6 @@ HTML and CSS code should be kept to the minimum needed to make the website funct
 
 * **Database MySQL/MariaDB 5** or higher.
 
-
-## The Author
-ToddNode
-
 ## License
 
 This blog system (PHP script) is under [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html) (LGPL); See the LICENSE.txt file for more information.
