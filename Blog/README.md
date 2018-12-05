@@ -54,14 +54,10 @@ HTML and CSS code should be kept to the minimum needed to make the website funct
 
 
 ## The Author
-
-[Pierre-Henry Soria](http://ph7.me)
+ToddNode
 
 
 ## Contact the Author
-
-By email at: *phy [AT] hizup [D0T] uk*
-
 
 ## License
 
